@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^zengarden.top [NC] 
+RewriteRule ^ https://www.zengarden.top/ [L,NE,R=301]
