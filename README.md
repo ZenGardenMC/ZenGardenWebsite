@@ -22,6 +22,11 @@ ZenGarden还在开发初期，仍有很多不足，请多多包容。如果你�
 * [SaltZime](https://github.com/SaltZime)
 * [SkyWave](https://github.com/SkyWave2022)
 ### 联系我们
+* [QQ](https://jq.qq.com/?_wv=1027&k=xEpY2yjX)
+* [Telegram](https://zengarden.top/t.me/mczengarden)
+* [Discord](https://discord.gg/GbTps6fJph)
+* [Email](mailto:zengarden@zengarden.top)
+* ~~[Github Organization](https://github.com/ZenGardenMC)~~
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 <br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。                                                                                                                 
