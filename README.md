@@ -23,7 +23,7 @@ ZenGarden还在开发初期，仍有很多不足，请多多包容。如果你�
 * [SkyWave](https://github.com/SkyWave2022)
 ### 联系我们
 * [QQ](https://jq.qq.com/?_wv=1027&k=xEpY2yjX)
-* [Telegram](https://zengarden.top/t.me/mczengarden)
+* [Telegram](https://zengarden.top/t.me/zengardenmc)
 * [Discord](https://discord.gg/GbTps6fJph)
 * [Email](mailto:support@zengarden.top)
 * ~~[Github Organization](https://github.com/ZenGardenMC)~~
