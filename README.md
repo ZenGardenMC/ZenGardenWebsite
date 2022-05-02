@@ -15,8 +15,13 @@ ZenGarden是一个平台，而不是一个独裁的服务器。运维人员不�
 ### 共建美好花园
 ZenGarden宣传部会开展各种各样的课程，如Java插件设计，BukkitAPI讲解，甚至新概念英语课程……小白进化成大佬，只要你足够有创造力，都可以通过镇长发放的FTP账号上传插件，地图等完善花园！ 
 ### ZenGarden NeedU
-ZenGarden还在开发初期，仍有很多不足，请多多包容。如果你有足够能力加入我们来构建更好的花园，请加入我们！
-[招贤纳才](https://zengarden.top/needu.html) 
+ZenGarden还在开发初期，仍有很多不足，请多多包容。如果你有足够能力加入我们来构建更好的花园，请[加入我们](./markdown/needu.md)！
+### 我们的团队
+* [Cacaview](https://cacaview.github.io/)
+* [DreamOneX](https://github.com/DreamOneX)-[Email](mailto:dreamonex@qq.com)-[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=rbknx18REkcU12VBJTxX7wAnNnrPLBZ8&noverify=0)-[Telegram](https://t.me/dreamonex1)-[Discord(DreamOneX #8950)](https://discordhub.com/profile/877528571214692382)
+* [SaltZime](https://github.com/SaltZime)
+* [SkyWave](https://github.com/SkyWave2022)
+### 联系我们
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 <br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。                                                                                                                 
