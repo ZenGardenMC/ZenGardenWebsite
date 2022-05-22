@@ -16,7 +16,7 @@ ZenGarden是一个平台，而不是一个独裁的服务器。运维人员不�
 ZenGarden宣传部会开展各种各样的课程，如Java插件设计，BukkitAPI讲解，甚至新概念英语课程……小白进化成大佬，只要你足够有创造力，都可以通过镇长发放的FTP账号上传插件，地图等完善花园！ 
 ### ZenGarden NeedU
 ZenGarden还在开发初期，仍有很多不足，请多多包容。如果你有足够能力加入我们来构建更好的花园，请[加入我们](./markdown/needu.md)！
-### 我们的团队
+### 我们的团队(按首字母顺序排序）
 * [Cacaview](https://cacaview.github.io/)
 * [DreamOneX](https://github.com/DreamOneX)-[Email](mailto:dreamonex@qq.com)-[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=rbknx18REkcU12VBJTxX7wAnNnrPLBZ8&noverify=0)-[Telegram](https://t.me/dreamonex1)-[Discord(DreamOneX #8950)](https://discordhub.com/profile/877528571214692382)
 * [SaltZime](https://github.com/SaltZime)
