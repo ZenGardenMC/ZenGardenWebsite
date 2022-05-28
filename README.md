@@ -18,7 +18,7 @@ ZenGarden宣传部会开展各种各样的课程，如Java插件设计，BukkitA
 ZenGarden还在开发初期，仍有很多不足，请多多包容。如果你有足够能力加入我们来构建更好的花园，请[加入我们](./markdown/needu.md)！
 ### 我们的团队(按首字母顺序排序）
 * [Cacaview](https://cacaview.github.io/)
-* [DreamOneX](https://github.com/DreamOneX)-[Email](mailto:dreamonex@qq.com)-[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=rbknx18REkcU12VBJTxX7wAnNnrPLBZ8&noverify=0)-[Telegram](https://t.me/dreamonex1)-[Discord(DreamOneX #8950)](https://discordhub.com/profile/877528571214692382)
+* [DreamOneX](https://github.com/DreamOneX)-[Email](mailto:me@dreamonex.ml)-[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=rbknx18REkcU12VBJTxX7wAnNnrPLBZ8&noverify=0)-[Telegram](https://t.me/dreamonex1)-[Discord(DreamOneX #8950)](https://discordhub.com/profile/877528571214692382)
 * [SaltZime](https://github.com/SaltZime)
 * [SkyWave](https://github.com/SkyWave2022)
 ### 联系我们
